@@ -43,9 +43,4 @@ let studentRecords = [
 
 
 // ques 7 =
-let score = studentRecords.filter(stz => stz.marks <50);
-let sum ;
-for(let i=0;i<=score.length;i++){
-sum = 15 + score.marks[i]; 
-}
-console.log(sum);
+
