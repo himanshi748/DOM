@@ -53,3 +53,22 @@ let studentRecords = [
 //            .filter((str) => str.marks > 50)
 //            .reduce((acc, curr) => acc + curr.marks, 0);
 //          console.log(total);
+
+
+ //Question 8:Create 6 objects , each object will have name, class, roll no as properties. Store these objects in an array of objects.
+//   let obj1 = { name: "tin", class: "1st", rollno: "1" };
+//   let obj2 = { name: "pin", class: "2nd", rollno: "2" };
+//   let obj3 = { name: "kiin", class: "3rd", rollno: "3" };
+//   let obj4 = { name: "singr", class: "6th", rollno: "4" };
+//   let obj5 = { name: "Sonu", class: "8th", rollno: "5" };
+//   let obj6 = { name: "Riyaa", class: "2nd", rollno: "6" };
+  
+//   let stud = [
+//          { name: "tin", class: "1st", rollno: "1" },
+//          { name: "pin", class: "2nd", rollno: "2" },
+//          { name: "kiin", class: "3rd", rollno: "3" },         
+//          { name: "singr", class: "6th", rollno: "4"},          
+//          { name: "Sonu", class: "8th", rollno: "5" },         
+//          { name: "Riyaa", class: "2nd", rollno: "6" },         
+//   ];
+//   console.log(stud);
