@@ -43,4 +43,13 @@ let studentRecords = [
 
 
 // ques 7 =
-
+//  let total = studentRecords
+//        .map(function (str) {
+//               if (str.marks < 50) {
+//                 str.marks += 15;
+//              }
+//             return str;
+//           })
+//            .filter((str) => str.marks > 50)
+//            .reduce((acc, curr) => acc + curr.marks, 0);
+//          console.log(total);
