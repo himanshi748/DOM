@@ -105,7 +105,7 @@
 // setTimeout(num7,7000);
 
 // ques 4:  Create a promise function accepting a argument, if yes is passed to the function then it should go to resolved state and print Promise Resolved, and if nothing is passed then it should go to reject state and catch the error and print Promise Rejected 																									
-ams //Ans 4 : 
+//Ans 4 : 
 // let promise = new Promise(function(resolve, reject) {
 //   resolve("Promise Resolved!");
 //   // reject("Promise reject!");
